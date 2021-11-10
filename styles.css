@@ -1,0 +1,32 @@
+table, td,th,tr {
+  font-family: 'Courgette', cursive;
+  border: 3px solid black;
+  text-align: center;
+  
+  
+}
+p {
+    
+    font-size: 20px;
+    background-color: aqua;
+    text-align: center;
+    
+}
+td:hover {
+    border: 3px solid black;
+    background-color: aqua;
+}
+div {
+   display: grid;
+   place-items: center; 
+}
+section {
+    display: grid;
+    place-items: center;
+}
+      
+
+h1, p {
+border-style: solid; 
+font-family: 'Courgette', cursive;
+}
